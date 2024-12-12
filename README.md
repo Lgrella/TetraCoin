@@ -170,60 +170,60 @@ npm install ethers react-toastify
 
 ### Deployment and Verification of Smart Contracts
 
-![2deployTetraCoinGame](../imgs/2deployTetraCoinGame.png)
-![3verifyTetraCoinGame](../imgs/3verifyTetraCoinGame.png)
-![4verifyTetraCoin](../imgs/4verifyTetraCoin.png)
+![2deployTetraCoinGame](/imgs/2deployTetraCoinGame.png)
+![3verifyTetraCoinGame](/imgs/3verifyTetraCoinGame.png)
+![4verifyTetraCoin](/imgs/4verifyTetraCoin.png)
 
 ### View of Smart Contracts on PolyScan
 
-![1tokencontract_orgin](../imgs/1tokencontract_orgin.png)
-![5tokencontract_afterverify](../imgs/5tokencontract_afterverify.png)
-![7submitscoretrans](../imgs/7submitscoretrans.png)
-![8tetracoinAfterTransfering](../imgs/8tetracoinAfterTransfering.png)
-![9TetraCoinOwnerAcct](../imgs/9TetraCoinOwnerAcct.png)
-![10OwnerAcctCoinOnly](../imgs/10OwnerAcctCoinOnly.png)
+![1tokencontract_orgin](/imgs/1tokencontract_orgin.png)
+![5tokencontract_afterverify](/imgs/5tokencontract_afterverify.png)
+![7submitscoretrans](/imgs/7submitscoretrans.png)
+![8tetracoinAfterTransfering](/imgs/8tetracoinAfterTransfering.png)
+![9TetraCoinOwnerAcct](/imgs/9TetraCoinOwnerAcct.png)
+![10OwnerAcctCoinOnly](/imgs/10OwnerAcctCoinOnly.png)
 
 ### Getting API Keys to Connect App to Amoy TestNet
 
-![11AlchemyAPI](../imgs/11AlchemyAPI.png)
-![12PolygonAPIkey](../imgs/12PolygonAPIkey.png)
+![11AlchemyAPI](/imgs/11AlchemyAPI.png)
+![12PolygonAPIkey](/imgs/12PolygonAPIkey.png)
 
 ### Successful Compilation of App and Console Testing that App Connects to Contracts
 
-![13successfulcompiling](../imgs/13successfulcompiling.png)
-![14javascriptconsole](../imgs/14javascriptconsole.png)
+![13successfulcompiling](/imgs/13successfulcompiling.png)
+![14javascriptconsole](/imgs/14javascriptconsole.png)
 
 ### Application Opening Scene
 
-![15appopeningscene](../imgs/15appopeningscene.png)
+![15appopeningscene](/imgs/15appopeningscene.png)
 
 ### Logging in as User or as TetraCoin Owner
 
-![16LoggingIn_wallet](../imgs/16LoggingIn_wallet.png)
-![17LoggingIn_wallet_owner](../imgs/17LoggingIn_wallet_owner.png)
+![16LoggingIn_wallet](/imgs/16LoggingIn_wallet.png)
+![17LoggingIn_wallet_owner](/imgs/17LoggingIn_wallet_owner.png)
 
 ### Admin Screen under different kinds of Accounts
 
-![18adminScreen](../imgs/18adminScreen.png)
-![26AdminScreenNotAllowedForNonOwner](../imgs/26AdminScreenNotAllowedForNonOwner.png)
+![18adminScreen](/imgs/18adminScreen.png)
+![26AdminScreenNotAllowedForNonOwner](/imgs/26AdminScreenNotAllowedForNonOwner.png)
 
 ### Transfer TetraCoin from Owner to User
 
-![19ClickingTransfer](../imgs/19ClickingTransfer.png)
-![20SuccessfullyTransferred](../imgs/20SuccessfullyTransferred.png)
-![21OwnerAccount_Transfer](../imgs/21OwnerAccount_Transfer.png)
-![22ReceivingAccount_Transfer](../imgs/22ReceivingAccount_Transfer.png)
+![19ClickingTransfer](/imgs/19ClickingTransfer.png)
+![20SuccessfullyTransferred](/imgs/20SuccessfullyTransferred.png)
+![21OwnerAccount_Transfer](/imgs/21OwnerAccount_Transfer.png)
+![22ReceivingAccount_Transfer](/imgs/22ReceivingAccount_Transfer.png)
 
 ### Updated TETRA balances
 
-![23OwnerAccountTotalTetra](../imgs/23OwnerAccountTotalTetra.png)
-![25UpdatedBalance](../imgs/25UpdatedBalance.png)
+![23OwnerAccountTotalTetra](/imgs/23OwnerAccountTotalTetra.png)
+![25UpdatedBalance](/imgs/25UpdatedBalance.png)
 
 ### Submitting Score Process
 
-![27GameOverScreen](../imgs/27GameOverScreen.png)
-![28SubmitScore](../imgs/28SubmitScore.png)
-![29ScoreSubmitSuccessful](../imgs/29ScoreSubmitSuccessful.png)
+![27GameOverScreen](/imgs/27GameOverScreen.png)
+![28SubmitScore](/imgs/28SubmitScore.png)
+![29ScoreSubmitSuccessful](/imgs/29ScoreSubmitSuccessful.png)
 
 ## Future Improvements
 
